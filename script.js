@@ -1,0 +1,1 @@
+console.log('Netlify-ready template loaded');
